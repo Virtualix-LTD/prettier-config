@@ -1,5 +1,6 @@
 {
 	"name": "@virtualix/prettier-config",
+	"description": "Prettier configuration for all JS/TS projects within Virtualix LTD",
 	"version": "1.0.1",
 	"main": "index.json"
 }
