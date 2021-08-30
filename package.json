@@ -1,6 +1,20 @@
 {
 	"name": "@virtualix/prettier-config",
 	"description": "Prettier configuration for all JS/TS projects within Virtualix LTD",
-	"version": "1.0.1",
+	"author": {
+		"email": "tony@virtualix.co.uk",
+		"name": "Tony Klinakis",
+		"url": "https://www.virtualix.co.uk"
+	},
+	"homepage": "https://github.com/Virtualix-LTD/prettier-config",
+	"bugs": {
+		"url": "https://github.com/Virtualix-LTD/prettier-config/issues"
+	},
+	"repository": {
+		"url": "https://github.com/Virtualix-LTD/prettier-config.git",
+		"type": "git"
+	},
+	"license": "BSD-3-Clause",
+	"version": "1.0.2",
 	"main": "index.json"
 }
